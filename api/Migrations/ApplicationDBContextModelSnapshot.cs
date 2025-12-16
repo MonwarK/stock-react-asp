@@ -73,6 +73,9 @@ namespace api.Migrations
                     b.Property<long>("MarketCap")
                         .HasColumnType("bigint");
 
+                    b.Property<decimal>("Purchase")
+                        .HasColumnType("decimal(18,2)");
+
                     b.Property<string>("Symbol")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");

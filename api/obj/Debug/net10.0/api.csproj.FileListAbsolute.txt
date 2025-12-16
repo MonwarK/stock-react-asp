@@ -211,3 +211,7 @@ C:\Users\Itz_m\Documents\project\yt-teddy-smith-tutorial\api\bin\Debug\net10.0\r
 C:\Users\Itz_m\Documents\project\yt-teddy-smith-tutorial\api\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\Itz_m\Documents\project\yt-teddy-smith-tutorial\api\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\Itz_m\Documents\project\yt-teddy-smith-tutorial\api\bin\Debug\net10.0\runtimes\win\lib\net9.0\System.Windows.Extensions.dll
+C:\Users\Itz_m\Documents\project\yt-teddy-smith-tutorial\api\obj\Debug\net10.0\api.sourcelink.json
+C:\Users\Itz_m\Documents\project\yt-teddy-smith-tutorial\api\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Itz_m\Documents\project\yt-teddy-smith-tutorial\api\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Itz_m\Documents\project\yt-teddy-smith-tutorial\api\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll

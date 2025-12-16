@@ -12,7 +12,7 @@ using api.Data;
 namespace api.Migrations
 {
     [DbContext(typeof(ApplicationDBContext))]
-    [Migration("20251216000020_init")]
+    [Migration("20251216145746_init")]
     partial class init
     {
         /// <inheritdoc />
@@ -75,6 +75,9 @@ namespace api.Migrations
 
                     b.Property<long>("MarketCap")
                         .HasColumnType("bigint");
+
+                    b.Property<decimal>("Purchase")
+                        .HasColumnType("decimal(18,2)");
 
                     b.Property<string>("Symbol")
                         .IsRequired()
